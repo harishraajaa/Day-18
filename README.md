@@ -1,4 +1,4 @@
 #Day-18
 #CRUD
 
-Deployed URL: 
+Deployed URL: https://crud-harishcorp.netlify.app/
