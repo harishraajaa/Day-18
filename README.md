@@ -1,6 +1,5 @@
 #Day-18
 
-This Repo contains my Task and Workout out files.
+This Branch : Weather contains my Weather API Application.
 
-1.CRUD
-2.Weather app
+Deployed URL : 
