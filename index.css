@@ -1,0 +1,35 @@
+body{
+    font-family: -apple-system,BlinkMacSystemFont,segoe ui,roboto,oxygen,ubuntu,cantarell,fira sans,droid sans,helvetica neue,sans-serif;
+}
+
+
+h2 {
+    font-size: 20px;
+    font-weight: 300;
+}
+
+
+div,header{
+    display: block;
+    unicode-bidi: isolate;
+}
+
+.app{
+    text-align: center;
+}
+
+.main{
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+p{
+    max-width: 1000px;
+    margin: 0 auto;
+    background-color: antiquewhite;
+}
+
+.facts{
+    font-size: 50px;
+    font-weight: 400;
+}
