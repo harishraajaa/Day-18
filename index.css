@@ -1,0 +1,16 @@
+.container-fluid{
+    padding: 40px;
+}
+
+h2{
+    text-align: center;
+    padding: 10px;
+}
+
+body{
+    font-family: -apple-system,BlinkMacSystemFont,segoe ui,roboto,oxygen,ubuntu,cantarell,fira sans,droid sans,helvetica neue,sans-serif;
+}
+
+.result{
+    font-weight: 500;
+}
