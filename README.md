@@ -6,4 +6,4 @@ Task Details:
 
 1. Weather Application - Contains in weather Branch
 2. Cat Fact Application - Contains in catfacts Branch
-3. Currency Converiosn Application - Contains in Currencyconv Branch.
+3. Currency Conversion Application - Contains in Currencyconv Branch.
