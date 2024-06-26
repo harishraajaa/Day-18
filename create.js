@@ -13,7 +13,7 @@ myForm.addEventListener("submit",(e)=>{
             Age:document.getElementById("uage").value,
             Email:document.getElementById("uemail").value,
             City:document.getElementById("ucity").value,
-            EmpNum:document.getElementById("uemp").value,
+            Emp_num:document.getElementById("uemp").value,
             Role:document.getElementById("urole").value,
         }
 
