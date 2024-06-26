@@ -5,4 +5,5 @@ Task Q: Use any 3 API's to build a responsive websites
 Task Details:
 
 1. Weather Application - Contains in weather Branch
-2. Cat Fact Application - Contains in catfacts Branch 
+2. Cat Fact Application - Contains in catfacts Branch
+3. Currency Converiosn Application - Contains in Currencyconv Branch.
